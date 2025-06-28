@@ -5,7 +5,6 @@
 
 A Kotlin chatbot app demonstrating hybrid NLP with rule-based responses plus a BERT question-answering model through TensorFlow Lite. Users can deploy on Android or JVM, and extend with richer models later. A great starter for Kotlin conversational AI.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ A Kotlin chatbot app demonstrating hybrid NLP with rule-based responses plus a B
 - Android-ready UI
 - JVM-deployable Kotlin code
 
----
 
 ## ⚙️ How to Run
 
@@ -34,7 +32,6 @@ A Kotlin chatbot app demonstrating hybrid NLP with rule-based responses plus a B
    - Connect a phone or use emulator
    - Click **Run**
 
----
 
 ## 🧩 Customization
 
@@ -42,4 +39,3 @@ A Kotlin chatbot app demonstrating hybrid NLP with rule-based responses plus a B
 - Enhance with a bigger vocabulary or new rules
 - Integrate Jetpack Compose for advanced UI
 
----
